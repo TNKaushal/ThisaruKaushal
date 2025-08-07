@@ -1,8 +1,6 @@
-
-<p align="center">
+<p align="center" width="50px" height="25px">
   
-![240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e](https://github.com/user-attachments/assets/f9949b6a-1914-47bd-bb5d-77644e78140b#width=200&height=100)
-
+![240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e](https://github.com/user-attachments/assets/f9949b6a-1914-47bd-bb5d-77644e78140b)
 
 </p>
 
